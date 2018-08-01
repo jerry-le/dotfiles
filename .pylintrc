@@ -1,0 +1,10 @@
+# checks for :
+# * unauthorized constructions
+# * strict indentation
+# * line length
+# * use of  instead of !=
+#
+[FORMAT]
+
+# Maximum number of characters on a single line.
+max-line-length=120
